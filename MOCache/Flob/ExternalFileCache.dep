@@ -1,0 +1,7 @@
+ExternalFileCache.o: ExternalFileCache.cpp ExternalFileCache.h \
+ /home/camie/secondo/include/SecondoSMI.h \
+ /home/camie/secondo/include/ErrorCodes.h \
+ /home/camie/secondo/include/SecondoConfig.h \
+ /home/camie/secondo/include/CacheInfo.h Flob.h FlobId.h FlobManager.h \
+ /home/camie/secondo/include/Serialize.h \
+ /home/camie/secondo/include/FileSystem.h

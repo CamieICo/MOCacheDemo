@@ -1,0 +1,6 @@
+PersistentFlobCache.o: PersistentFlobCache.cpp PersistentFlobCache.h \
+ Flob.h FlobId.h /home/camie/secondo/include/SecondoSMI.h \
+ /home/camie/secondo/include/ErrorCodes.h \
+ /home/camie/secondo/include/SecondoConfig.h \
+ /home/camie/secondo/include/CacheInfo.h FlobManager.h \
+ /home/camie/secondo/include/Serialize.h
